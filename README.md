@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`The-Division-2-Stats-Utility` · Updated: 2026-10-07
+`The-Division-2-Stats-Utility` · Updated: 2026-10-24
 
 **Tags:** `the-division-2` `stats` `rpg` `shooter` `ubisoft`
